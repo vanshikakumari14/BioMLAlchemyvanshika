@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Machine Learning,Deep Learning, Bioinformatics Tools,Drug designing**
+- 💬 Ask me about **Machine Learning,Deep Learning,Python,R,MySQL,Bioinformatics Tools,Drug designing**
 
 - 📫 How to reach me **vanshika.kumari2019@gmail.com**
 
